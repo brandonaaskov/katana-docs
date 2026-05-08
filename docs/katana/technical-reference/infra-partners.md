@@ -2,7 +2,7 @@
 
 - [Conduit RPC](https://www.conduit.xyz/nodes)
 - [Tenderly RPC](https://tenderly.co/node-rpc)
-
+- [Alchemy](https://www.alchemy.com/rpc/katana)
 - [Chainstack](https://chainstack.com/build-better-with-katana/)
 - [Spectrum Nodes](https://spectrumnodes.com/)
 - [dRPC NodeCloud](https://drpc.org/chainlist/katana)
